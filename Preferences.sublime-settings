@@ -1,0 +1,17 @@
+{
+    "color_scheme": "Packages/Theme - Spaceblack/Color Schemes/Spaceblack-Monokai.tmTheme",
+    "font_size": 13,
+    "spaceblack_sidebar_font_xlarge": true,
+    "spaceblack_sidebar_tree_xlarge": true,
+    "spaceblack_tabs_auto_width": true,
+    "spaceblack_tabs_xxlarge": true,
+    "theme": "Spaceblack.sublime-theme",
+    "ignored_packages":
+    [
+		"LSP-astro",
+        "LSP-css",
+        "Rust",
+        "Vintage",
+    ],
+    "index_files": true,
+}
